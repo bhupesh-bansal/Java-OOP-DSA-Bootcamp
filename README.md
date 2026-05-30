@@ -18,13 +18,13 @@ The structure of this repository and the core problem sets follow the excellent 
 
 The repository is organized chronologically by topic to track my progress:
 
-- `01) Binary Search in 2D Arrays\` - Binary Search Algorithm for sorted 2D arrays.
-- `02) Buuble Sort\` - Basic Bubble Sort Algorithm
+- `01) Binary Search in 2D Arrays` - Binary Search Algorithm for sorted 2D arrays.
+- `02) Buuble Sort` - Basic Bubble Sort Algorithm
 - *(More topics like OOP, Linked Lists, and Trees will be added as I progress)*
 
 ## 💡 How I Use This Repo
 1. **Commented Code:** Instead of taking separate text notes, I write detailed inline comments (`//`) explaining *why* a specific pointer moves or *how* an edge case is handled.
-2. **Dry Runs:** For complex topics (like Recursion or Binary Search on Answers), I include `.md` files or diagrams within the folders explaining my manual dry-runs.
+2. **Notes:** I use AI to enhance my notes to make them more readable.
 3. **Consistency:** I commit my code daily to maintain momentum and track my iteration speed.
 
 ## 🛠️ Tech Stack
