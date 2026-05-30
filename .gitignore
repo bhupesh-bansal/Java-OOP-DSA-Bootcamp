@@ -1,0 +1,17 @@
+# Compiled Java class files
+*.class
+
+# macOS hidden system files
+.DS_Store
+
+# IDE directories and config files (VS Code, IntelliJ, Eclipse)
+.vscode/
+.idea/
+*.iml
+.metadata/
+bin/
+out/
+
+# Compiled archives
+*.jar
+*.war
