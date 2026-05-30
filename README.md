@@ -24,7 +24,7 @@ The repository is organized chronologically by topic to track my progress:
 
 ## 💡 How I Use This Repo
 1. **Commented Code:** Instead of taking separate text notes, I write detailed inline comments (`//`) explaining *why* a specific pointer moves or *how* an edge case is handled.
-2. **Notes:** I use AI to enhance my notes to make them more readable.
+2. **Notes:** I use AI to create notes to make them more readable and save time.
 3. **Consistency:** I commit my code daily to maintain momentum and track my iteration speed.
 
 ## 🛠️ Tech Stack
