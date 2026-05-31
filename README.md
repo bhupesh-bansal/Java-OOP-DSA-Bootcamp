@@ -19,7 +19,7 @@ The structure of this repository and the core problem sets follow the excellent 
 The repository is organized chronologically by topic to track my progress:
 
 - `01) Binary Search in 2D Arrays` - Binary Search Algorithm for sorted 2D arrays.
-- `02) Buuble Sort` - Basic Bubble Sort Algorithm
+- `02) Sorting Algorithms` - Bubble Sort, Selection Sort, Insertion Sort, Cycle Sort
 - *(More topics like OOP, Linked Lists, and Trees will be added as I progress)*
 
 ## 💡 How I Use This Repo
