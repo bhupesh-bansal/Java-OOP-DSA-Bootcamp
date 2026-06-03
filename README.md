@@ -20,6 +20,8 @@ The repository is organized chronologically by topic to track my progress:
 
 - `01) Binary Search in 2D Arrays` - Binary Search Algorithm for sorted 2D arrays.
 - `02) Sorting Algorithms` - Bubble Sort, Selection Sort, Insertion Sort, Cycle Sort
+- `03) Strings` - Notes for strings in Java + paalindrome code.
+- `04) Recursion` - Important Topic for understanding further topics and interviews.
 - *(More topics like OOP, Linked Lists, and Trees will be added as I progress)*
 
 ## 💡 How I Use This Repo
