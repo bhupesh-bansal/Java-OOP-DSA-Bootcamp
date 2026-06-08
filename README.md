@@ -22,6 +22,7 @@ The repository is organized chronologically by topic to track my progress:
 - `02) Sorting Algorithms` - Bubble Sort, Selection Sort, Insertion Sort, Cycle Sort
 - `03) Strings` - Notes for strings in Java + paalindrome code.
 - `04) Recursion` - Important Topic for understanding further topics and interviews.
+- `05) Time and Space Complexity` - Basic Notes + Advanced concepts like akra-baazi(shortcut for finding time complexity), Homogeneous and Non-Homogeneous recurrence relations.
 - *(More topics like OOP, Linked Lists, and Trees will be added as I progress)*
 
 ## 💡 How I Use This Repo
