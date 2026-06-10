@@ -1,4 +1,4 @@
-public class findDuplicate {
+public class FindUnique {
     static void main() {
         int[] arr = {2,3,4,8,4,3,2};
 

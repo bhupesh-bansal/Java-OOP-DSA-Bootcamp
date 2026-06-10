@@ -1,4 +1,4 @@
-public class findOddNum {
+public class FindOddNum {
     static void main() {
         int num = 1000000;
 

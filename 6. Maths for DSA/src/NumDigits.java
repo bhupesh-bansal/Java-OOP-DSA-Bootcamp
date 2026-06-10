@@ -1,4 +1,4 @@
-public class numDigits {
+public class NumDigits {
     static void main() {
         int num = 345899;
         int base = 10;
