@@ -1,7 +1,7 @@
 //Find all the prime numbers less than 40 using sieve of Eratosthenes
 //Time-Complexity of this algorithm is O(n * log(log(n)))
 
-public class sieveOfEratosthenes {
+public class SieveOfEratosthenes {
     static void main() {
         int n = 40;
         boolean[] nonPrime = new boolean[n + 1];
