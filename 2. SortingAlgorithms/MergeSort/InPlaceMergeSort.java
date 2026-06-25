@@ -5,19 +5,19 @@ import java.util.Arrays;
 public class InPlaceMergeSort {
     static void main() {
         int[] arr = {8,3,6,4,1,2};
-        mergeSort(arr, 0 , arr.length);
+        inPlaceMergeSort(arr, 0 , arr.length);
         System.out.println(Arrays.toString(arr));
     }
 
-    static void mergeSort(int[] arr, int start, int end) {
+    static void inPlaceMergeSort(int[] arr, int start, int end) {
         if(end - start == 1) {
             return ;
         }
 
         int mid = start + (end - start)/2;
 
-        mergeSort(arr, start, mid);
-        mergeSort(arr, mid, end);
+        inPlaceMergeSort(arr, start, mid);
+        inPlaceMergeSort(arr, mid, end);
 
         merge(arr, start, mid, end);
     }
