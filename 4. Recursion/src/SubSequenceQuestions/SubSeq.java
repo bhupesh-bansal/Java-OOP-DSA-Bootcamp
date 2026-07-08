@@ -1,3 +1,5 @@
+// Print all the subsets for a given String.
+
 package SubSequenceQuestions;
 
 import java.util.ArrayList;

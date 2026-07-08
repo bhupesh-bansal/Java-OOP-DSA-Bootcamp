@@ -1,3 +1,5 @@
+// Print all the subsets of a given array.
+
 package SubSequenceQuestions;
 
 import java.util.ArrayList;
@@ -5,7 +7,7 @@ import java.util.List;
 
 public class SubSet {
     static void main() {
-        int[] arr = {1,2};
+        int[] arr = {1,2,3};
         System.out.println(subset(arr));
     }
 

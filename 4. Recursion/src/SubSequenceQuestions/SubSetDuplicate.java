@@ -1,3 +1,5 @@
+// Print all the subsets of an array. Duplicates should be ignored.
+
 package SubSequenceQuestions;
 
 import java.util.*;
