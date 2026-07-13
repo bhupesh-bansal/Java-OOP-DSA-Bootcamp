@@ -1,3 +1,5 @@
+package backtracking;
+
 public class NQueens {
     static void main() {
         int n = 4;
