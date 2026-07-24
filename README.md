@@ -21,14 +21,16 @@ The repository is organized chronologically by topic to track my progress:
 - `01) Binary Search in 2D Arrays` - Binary Search Algorithm for sorted 2D arrays.
 - `02) Sorting Algorithms` - Bubble Sort, Selection Sort, Insertion Sort, Cycle Sort
 - `03) Strings` - Notes for strings in Java + paalindrome code.
-- `04) Recursion` - Important Topic for understanding further topics and interviews.
+- `04) Recursion` - Covering recursion from basic to advanced.
 - `05) Time and Space Complexity` - Basic Notes + Advanced concepts like akra-baazi(shortcut for finding time complexity), Homogeneous and Non-Homogeneous recurrence relations.
-- *(More topics like OOP, Linked Lists, and Trees will be added as I progress)*
+- `06) Bitwise Operators` - Questions on Bitwise operators.
+- `07) Maths for DSA` - Some pre-req. concepts for DSA.
+- `08) OOP` - All concepts of OOP from basic to advanced.
+- *(More topics like Linked Lists, and Trees will be added as I progress)*
 
 ## 💡 How I Use This Repo
 1. **Commented Code:** Instead of taking separate text notes, I write detailed inline comments (`//`) explaining *why* a specific pointer moves or *how* an edge case is handled.
 2. **Notes:** I use AI to create notes to make them more readable and save time.
-3. **Consistency:** I commit my code daily to maintain momentum and track my iteration speed.
 
 ## 🛠️ Tech Stack
 *   **Language:** Java
