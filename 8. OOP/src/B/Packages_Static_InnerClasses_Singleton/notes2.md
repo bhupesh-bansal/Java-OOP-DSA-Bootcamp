@@ -259,7 +259,7 @@ Implement a `Logger` class as a Singleton (private constructor + static `getInst
 
 ---
 
-# Interview Questions
+# Theory Questions
 
 **Conceptual / Theory**
 1. What is the difference between a static and a non-static (instance) member in Java?

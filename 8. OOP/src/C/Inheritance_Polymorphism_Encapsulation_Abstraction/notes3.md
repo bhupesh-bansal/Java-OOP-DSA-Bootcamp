@@ -277,7 +277,7 @@ Create two interfaces `Flyable` (method `fly()`) and `Swimmable` (method `swim()
 
 ---
 
-## 9. Interview Questions
+## 9. Theory Questions
 
 **Conceptual**
 1. What are the four pillars of OOP? Give a one-line definition and real-world example for each.
